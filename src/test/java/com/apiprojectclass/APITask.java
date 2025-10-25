@@ -9,7 +9,7 @@ public class APITask {
   public String createFlight() {
 	  RequestSpecification reqSpec;
 
-	  //demo
+	  //ckass
 	  
 	  
 		// 1. Initialize the Rest Assured Class
