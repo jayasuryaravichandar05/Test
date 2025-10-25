@@ -1,0 +1,34 @@
+{
+	"name": "Naveen",
+	"emailId": "naveen@gmail.com",
+	"PhoneNo": 9597740112,
+	"address": {
+		"streetName": "OMR",
+		"districtName": "Chennai",
+		"stateName": "Tamil Nadu",
+		"pincode": 605097
+	},
+	"courses": [
+		"Java",
+		"SQL",
+		"Python",
+		"API"
+	],
+	"empDetails": [
+		{
+			"firstName": "Arul",
+			"course": "Java",
+			"place": "OMR"
+		},
+		{
+			"firstName": "Ravi",
+			"course": "SQL",
+			"place": "OMR"
+		},
+		{
+			"firstName": "Manoj",
+			"course": "API",
+			"place": "OMR"
+		}
+	]
+}
